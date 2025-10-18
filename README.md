@@ -1,4 +1,5 @@
 📊 Đồ án môn học: Phân tích dữ liệu
+
 🧩 Giới thiệu
 
 Đồ án được thực hiện trong khuôn khổ môn Phân tích dữ liệu, nhằm áp dụng các kiến thức đã học về xử lý, trực quan hóa và phân tích dữ liệu thực tế bằng các công cụ Python (pandas, matplotlib, seaborn, v.v...).
@@ -27,8 +28,11 @@ Kết luận: Rút ra insight và đề xuất cải thiện.
 
 🧑‍💻 Thành viên nhóm
 Họ và tên	MSSV
+
 Đỗ Hữu Lộc	3123410201
+
 Nguyễn Hoàng Phúc	3123410277
+
 Hồ Đắc Khả	31234110143
 
 Giảng viên hướng dẫn: ThS. Đỗ Như Tài
